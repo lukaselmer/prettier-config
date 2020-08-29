@@ -1,0 +1,10 @@
+{
+  "name": "@lukaselmer/prettier-config",
+  "version": "1.0.0",
+  "description": "Elmer Prettier Config",
+  "main": "index.json",
+  "homepage": "https://github.com/lukaselmer/elmer-prettier-config#readme",
+  "repository": "git@github.com:lukaselmer/elmer-prettier-config.git",
+  "author": "Lukas Elmer <lukas.elmer@gmail.com>",
+  "license": "MIT"
+}

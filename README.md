@@ -1,4 +1,4 @@
-# Elmer Prettier Config
+# @lukaselmer Prettier Config
 
 ```
 yarn add --dev @lukaselmer/prettier-config

@@ -6,5 +6,9 @@
   "homepage": "https://github.com/lukaselmer/elmer-prettier-config#readme",
   "repository": "git@github.com:lukaselmer/elmer-prettier-config.git",
   "author": "Lukas Elmer <lukas.elmer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "npm@12.2.1",
+  "files": [
+    "index.json"
+  ]
 }
